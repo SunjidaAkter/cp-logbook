@@ -46,9 +46,9 @@
 
 ## 📊 Monthly Statistics
 
-Problems Solved:
-Live Contests:
-Virtual Contests:
-Upsolved:
-New Patterns Learned:
-Current Codeforces Rating:
+- Problems Solved:
+- Live Contests:
+- Virtual Contests:
+- Upsolved:
+- New Patterns Learned:
+- Current Codeforces Rating:
