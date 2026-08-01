@@ -18,16 +18,37 @@
 - Graph Basics
 - Consistency
 
-## 📅 August 1
+---
 
-### Solved
+## 📅 Daily Log
 
-- ...
+### August 1
 
-### Learned
+#### ✅ Solved
 
-- ...
+-
 
-### Mistakes
+#### 💡 Learned
 
-- ...
+-
+
+#### ❌ Mistakes
+
+-
+
+#### 📌 Tomorrow
+
+-
+
+#### 🌱 One Lesson
+
+- ***
+
+## 📊 Monthly Statistics
+
+Problems Solved:
+Live Contests:
+Virtual Contests:
+Upsolved:
+New Patterns Learned:
+Current Codeforces Rating:
