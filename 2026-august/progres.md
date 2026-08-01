@@ -25,9 +25,26 @@
 ### August 1
 
 #### ✅ Solved
+
 - Apartments (12 min)
 - Ferris Wheel (15 min)
 
+## 🏆 Contest
+
+### AtCoder Beginner Contest
+
+- Score: **600**
+- Solved: **A, B, C**
+- Result:
+  - ✅ A (100) — **1:37**
+  - ✅ B (200) — **6:17**
+  - ✅ C (300) — **17:40**
+  - ❌ D — Attempted
+
+### Codeforces Round
+
+- ✅ Solved one problem — **5:00**
+- ❌ B — Attempted
 
 #### 💡 Learned
 
