@@ -2,7 +2,7 @@
 
 | Goal                 |   Target    | Current |
 | -------------------- | :---------: | :-----: |
-| Problems Solved      |     90      |    0    |
+| Problems Solved      |     90      |    2    |
 | Live Contests        |     10      |    0    |
 | Virtual Contests     |      5      |    0    |
 | Upsolved Problems    |     20      |    0    |
@@ -25,8 +25,9 @@
 ### August 1
 
 #### ✅ Solved
+- Apartments (12 min)
+- Ferris Wheel (15 min)
 
--
 
 #### 💡 Learned
 
