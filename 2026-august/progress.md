@@ -2,7 +2,7 @@
 
 | Goal                 |   Target    | Current |
 | -------------------- | :---------: | :-----: |
-| Problems Solved      |     90      |    6    |
+| Problems Solved      |     90      |    8    |
 | Live Contests        |     10      |    0    |
 | Virtual Contests     |      5      |    0    |
 | Upsolved Problems    |     20      |    0    |
