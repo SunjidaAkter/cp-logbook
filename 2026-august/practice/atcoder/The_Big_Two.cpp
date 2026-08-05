@@ -15,9 +15,8 @@ void solve(){
     for(auto &x:match){
         cin>>x.first>>x.second;
     }
-    set<pii>pair;
+    set<pii>jor;
     vector<ll>fixed={match[0].first,match[0].second};
-    bool found=false;
     for(ll f:fixed){
         bool first_uncovered=true;
         vector<ll>possible;
@@ -27,7 +26,6 @@ void solve(){
                 possible.push_back(match[i].first);
                 possible.push_back(match[i].second);
                 first_uncovered=false;
-                found=true;
             }else{
                 vector<ll>nxt;
                 for(ll x:possible){
@@ -37,13 +35,18 @@ void solve(){
                 if(nxt.empty())break;
             }
         }
-        if(possible.empty())continue;
+        if(first_uncovered){
+            for(ll i=1;i<=n;i++){
+                if(i==f)continue;
+                possible.push_back(i);
+            }
+        }else if(possible.empty())continue;
         for(ll x:possible){
-            pair.insert({min(f,x),max(f,x)});
+            jor.insert({min(f,x),max(f,x)});
         }
     }
-    if(!found)cout<<2*n-3<<nl;
-    else cout<<pair.size()<<nl;
+    // if(!found)cout<<2*n-3<<nl;
+    cout<<jor.size()<<nl;
 }
 int main(){
     FAST;
