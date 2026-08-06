@@ -21,9 +21,9 @@ The goal is simple:
 
 | Goal                 |   Target    | Current |
 | -------------------- | :---------: | :-----: |
-| Problems Solved      |     90      |   12    |
+| Problems Solved      |     90      |   17    |
 | Live Contests        |     10      |    3    |
-| Virtual Contests     |      5      |    0    |
+| Virtual Contests     |      5      |    1    |
 | Upsolved Problems    |     20      |    5    |
 | CSES Problems        |     25      |    3    |
 | New Patterns Learned |     10      |    1    |
@@ -149,6 +149,38 @@ The goal is simple:
 ### 🌱 One Lesson
 
 > _Every upsolved problem makes the next contest a little easier._
+
+### August 6
+
+#### ✅ Solved
+
+- Codeforces Div. 3 C1 (Upsolve)
+- Codeforces Div. 3 C2 (Upsolve)
+- Codeforces Div. 3 D (Upsolve)
+- CSES - Concert Tickets
+
+#### 🏆 Virtual Contest
+
+### AtCoder Beginner Contest (Virtual)
+
+- ✅ A
+- ✅ B
+- ❌ C — Attempted (Will Upsolve)
+
+#### 💡 Learned
+
+- Practiced multiple contest problems through upsolving.
+- Revised `multiset` + `upper_bound` usage (Concert Tickets).
+- Remembered to check `upper_bound() == begin()` before decrementing the iterator.
+
+#### ❌ Mistakes
+
+- Couldn't solve AtCoder C during the virtual contest.
+- Need more practice on observation-based greedy/constructive problems.
+
+#### 🌱 One Lesson
+
+- Consistent upsolving is improving pattern recognition even when contest performance isn't ideal.
 
 ## 📊 Monthly Statistics
 
