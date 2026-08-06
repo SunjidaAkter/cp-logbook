@@ -21,13 +21,14 @@ The goal is simple:
 
 | Goal                 |   Target    | Current |
 | -------------------- | :---------: | :-----: |
-| Problems Solved      |     90      |   10    |
-| Live Contests        |     10      |    0    |
+| Problems Solved      |     90      |   12    |
+| Live Contests        |     10      |    3    |
 | Virtual Contests     |      5      |    0    |
-| Upsolved Problems    |     20      |    0    |
-| CSES Problems        |     25      |    0    |
-| New Patterns Learned |     10      |    0    |
-| Codeforces Rating    | 1211 → 1300 |  1211   |
+| Upsolved Problems    |     20      |    5    |
+| CSES Problems        |     25      |    3    |
+| New Patterns Learned |     10      |    1    |
+| Codeforces Rating    | 1211 → 1300 |  1031   |
+| AtCoder Rating       |  270 → 400  |   415   |
 
 ## 🎯 August Focus
 
@@ -60,7 +61,7 @@ The goal is simple:
   - ✅ C (300) — **17:40**
   - ❌ D — Attempted
 
-### Codeforces Round
+### Codeforces Round (Div 2)
 
 - ✅ Solved one problem — **5:00**
 - ❌ B — Attempted
