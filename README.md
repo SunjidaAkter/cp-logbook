@@ -150,6 +150,33 @@ The goal is simple:
 
 > _Every upsolved problem makes the next contest a little easier._
 
+### August 5
+
+#### ✅ Solved
+
+- Codeforces Div. 3 B (Upsolve)
+
+#### 📂 Other Progress
+
+- Upsolved `B_Evanescent.cpp` from the last Codeforces Div. 3 contest.
+- Continued analyzing AtCoder D - The Big Two.
+- Planned the approach for CSES - Concert Tickets before implementing it.
+
+#### 💡 Learned
+
+- Revisited the solution after solving it once.
+- Practiced the candidate intersection idea used in the solution.
+- Better understood why checking `upper_bound() == begin()` is important before decrementing an iterator.
+
+#### ❌ Mistakes
+
+- Couldn't immediately re-solve the problem from memory.
+- Took longer than expected to recall the observation.
+
+#### 🌱 One Lesson
+
+- Solving a problem once isn't enough. Re-solving it after a few days is a much better test of real understanding.
+
 ### August 6
 
 #### ✅ Solved
@@ -161,11 +188,14 @@ The goal is simple:
 
 #### 🏆 Virtual Contest
 
-### AtCoder Beginner Contest (Virtual)
+### AtCoder Beginner Contest 461(Virtual)
 
-- ✅ A
-- ✅ B
-- ❌ C — Attempted (Will Upsolve)
+- Score: **300**
+- Solved: **A, B**
+- Result:
+  - ✅ A (100) — **3:01**
+  - ✅ B (200) — **11:58**
+  - ❌ C (300) — Attempted
 
 #### 💡 Learned
 

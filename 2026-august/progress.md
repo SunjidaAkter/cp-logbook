@@ -2,13 +2,14 @@
 
 | Goal                 |   Target    | Current |
 | -------------------- | :---------: | :-----: |
-| Problems Solved      |     90      |   10    |
-| Live Contests        |     10      |    0    |
-| Virtual Contests     |      5      |    0    |
-| Upsolved Problems    |     20      |    0    |
-| CSES Problems        |     25      |    0    |
-| New Patterns Learned |     10      |    0    |
-| Codeforces Rating    | 1211 → 1300 |  1211   |
+| Problems Solved      |     90      |   16    |
+| Live Contests        |     10      |    3    |
+| Virtual Contests     |      5      |    1    |
+| Upsolved Problems    |     20      |    6    |
+| CSES Problems        |     25      |    3    |
+| New Patterns Learned |     10      |    1    |
+| Codeforces Rating    | 1211 → 1300 |  1031   |
+| AtCoder Rating       |  270 → 400  |   415   |
 
 ## 🎯 August Focus
 
@@ -41,7 +42,7 @@
   - ✅ C (300) — **17:40**
   - ❌ D — Attempted
 
-### Codeforces Round
+### Codeforces Round (Div 2)
 
 - ✅ Solved one problem — **5:00**
 - ❌ B — Attempted
@@ -129,6 +130,68 @@
 ### 🌱 One Lesson
 
 > _Every upsolved problem makes the next contest a little easier._
+
+### August 5
+
+#### ✅ Solved
+
+- Codeforces Div. 3 B (Upsolve)
+
+#### 📂 Other Progress
+
+- Upsolved `B_Evanescent.cpp` from the last Codeforces Div. 3 contest.
+- Continued analyzing AtCoder D - The Big Two.
+- Planned the approach for CSES - Concert Tickets before implementing it.
+
+#### 💡 Learned
+
+- Revisited the solution after solving it once.
+- Practiced the candidate intersection idea used in the solution.
+- Better understood why checking `upper_bound() == begin()` is important before decrementing an iterator.
+
+#### ❌ Mistakes
+
+- Couldn't immediately re-solve the problem from memory.
+- Took longer than expected to recall the observation.
+
+#### 🌱 One Lesson
+
+- Solving a problem once isn't enough. Re-solving it after a few days is a much better test of real understanding.
+
+### August 6
+
+#### ✅ Solved
+
+- Codeforces Div. 3 C1 (Upsolve)
+- Codeforces Div. 3 C2 (Upsolve)
+- Codeforces Div. 3 D (Upsolve)
+- CSES - Concert Tickets
+
+#### 🏆 Virtual Contest
+
+### AtCoder Beginner Contest 461(Virtual)
+
+- Score: **300**
+- Solved: **A, B**
+- Result:
+  - ✅ A (100) — **3:01**
+  - ✅ B (200) — **11:58**
+  - ❌ C (300) — Attempted
+
+#### 💡 Learned
+
+- Practiced multiple contest problems through upsolving.
+- Revised `multiset` + `upper_bound` usage (Concert Tickets).
+- Remembered to check `upper_bound() == begin()` before decrementing the iterator.
+
+#### ❌ Mistakes
+
+- Couldn't solve AtCoder C during the virtual contest.
+- Need more practice on observation-based greedy/constructive problems.
+
+#### 🌱 One Lesson
+
+- Consistent upsolving is improving pattern recognition even when contest performance isn't ideal.
 
 ## 📊 Monthly Statistics
 
