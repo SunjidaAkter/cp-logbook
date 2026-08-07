@@ -21,10 +21,10 @@ The goal is simple:
 
 | Goal                 |   Target    | Current |
 | -------------------- | :---------: | :-----: |
-| Problems Solved      |     90      |   19    |
+| Problems Solved      |     90      |   20    |
 | Live Contests        |     10      |    3    |
 | Virtual Contests     |      5      |    1    |
-| Upsolved Problems    |     20      |    6    |
+| Upsolved Problems    |     20      |    7    |
 | CSES Problems        |     25      |    6    |
 | New Patterns Learned |     10      |    1    |
 | Codeforces Rating    | 1211 → 1300 |  1031   |
@@ -211,6 +211,27 @@ The goal is simple:
 #### 🌱 One Lesson
 
 - Consistent upsolving is improving pattern recognition even when contest performance isn't ideal.
+
+### August 7
+
+# Mistakes I Never Want to Repeat
+
+## Greedy
+
+- Don't reject an observation without a counterexample.
+- Always dry run on small examples.
+- If a greedy feels right, try proving why.
+
+## Implementation
+
+- Check index increment.
+- Check i < n before accessing v[i].
+- Don't modify original values unless necessary.
+
+## Contests
+
+- Don't spend 40 minutes on implementation before proving the idea.
+- Read constraints carefully.
 
 ## 📊 Monthly Statistics
 
