@@ -21,11 +21,11 @@ The goal is simple:
 
 | Goal                 |   Target    | Current |
 | -------------------- | :---------: | :-----: |
-| Problems Solved      |     90      |   16    |
+| Problems Solved      |     90      |   19    |
 | Live Contests        |     10      |    3    |
 | Virtual Contests     |      5      |    1    |
 | Upsolved Problems    |     20      |    6    |
-| CSES Problems        |     25      |    3    |
+| CSES Problems        |     25      |    6    |
 | New Patterns Learned |     10      |    1    |
 | Codeforces Rating    | 1211 → 1300 |  1031   |
 | AtCoder Rating       |  270 → 400  |   415   |
