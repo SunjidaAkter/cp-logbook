@@ -21,7 +21,7 @@ The goal is simple:
 
 | Goal                 |   Target    | Current |
 | -------------------- | :---------: | :-----: |
-| Problems Solved      |     90      |   20    |
+| Problems Solved      |     90      |   22    |
 | Live Contests        |     10      |    3    |
 | Virtual Contests     |      5      |    1    |
 | Upsolved Problems    |     20      |    7    |
@@ -212,7 +212,32 @@ The goal is simple:
 
 - Consistent upsolving is improving pattern recognition even when contest performance isn't ideal.
 
-### August 7
+## 📅 August 7
+
+### ✅ Solved
+
+- CSES: 3 problems
+- AtCoder: 1 upsolve (ABC461 C)
+- Codeforces: 2 problems
+
+### 💡 Learned
+
+- Greedy problems-এ আগে constraint satisfy করতে হয়, তারপর remaining choice দিয়ে value maximize করতে হয়।
+- Implementation যত simple হবে, debugging তত সহজ হবে।
+- Pattern trigger:
+  - **Maximum + Constraint + Distinct → Think Greedy + Sorting**
+
+### ❌ Mistakes
+
+- প্রথম solution-এ implementation unnecessarily complicated হয়ে গিয়েছিল।
+- Bug খুঁজতে logic-এর চেয়ে implementation-এ বেশি সময় নষ্ট হয়েছে।
+- একই idea আরও cleanভাবে লেখা যেত।
+
+### 📝 Notes
+
+- Accepted: AtCoder ABC461 C (Upsolve)
+- Practiced CSES Sorting & Searching.
+- Continued building CP Logbook and pattern notes.
 
 # Mistakes I Never Want to Repeat
 
