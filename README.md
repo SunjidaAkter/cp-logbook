@@ -21,9 +21,9 @@ The goal is simple:
 
 | Goal                 |   Target    | Current |
 | -------------------- | :---------: | :-----: |
-| Problems Solved      |     90      |   22    |
+| Problems Solved      |     90      |   27    |
 | Live Contests        |     10      |    3    |
-| Virtual Contests     |      5      |    1    |
+| Virtual Contests     |      5      |    2    |
 | Upsolved Problems    |     20      |    7    |
 | CSES Problems        |     25      |    6    |
 | New Patterns Learned |     10      |    1    |
@@ -257,6 +257,43 @@ The goal is simple:
 
 - Don't spend 40 minutes on implementation before proving the idea.
 - Read constraints carefully.
+
+## 📅 August 8
+
+### ✅ Solved
+
+- Codeforces: 1 problem
+- Codeforces Virtual Contest: A solved
+
+### 🔄 Attempted
+
+- Codeforces Virtual Contest: B — 4 attempts, not solved
+
+### 📚 Practice
+
+- CF 405A — Gravity Flip
+- CF 22A — Second Order Statistics
+- CF 1165B — Polycarp Training
+- CF 1008B — Turn the Rectangles
+
+### 💡 Learned
+
+- Sorting + observation
+- Greedy thinking
+- Two pointers
+- Edge-case handling
+- Virtual contest-এ time management
+
+### ❌ Mistakes
+
+- Virtual contest-এ B problem-এ repeated attempts হয়েছে।
+- একই problem-এ বেশি সময়/attempt দেওয়ার আগে approach পুনরায় যাচাই করা দরকার।
+
+### 🎯 Next Step
+
+- B problem upsolve করব।
+- আজকের WA-এর কারণ identify করে note করব।
+- পরের virtual contest-এ problem switching এবং time management improve করব।
 
 ## 📊 Monthly Statistics
 
