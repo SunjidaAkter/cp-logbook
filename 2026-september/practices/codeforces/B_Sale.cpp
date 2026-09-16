@@ -9,22 +9,21 @@ using namespace std;
 #define No cout<<"No"<<nl
 #define FAST ios_base :: sync_with_stdio (false) ; cin.tie(0) ; cout.tie(0)
 typedef pair<ll,ll>pii;
-
 void solve(){
-    ll n;cin>>n;
-    while(n>0){
-        if(n%2&&n!=1){
-            yes;
-            return;
-        }
-        n/=2;
+    ll n,k;cin>>n>>k;
+    vector<ll>v(n);
+    for(ll i=0;i<n;i++)cin>>v[i];
+    ll sum=0;
+    sort(all(v));
+    for(ll i=0;i<k;i++){
+        if(v[i]<0)sum+=abs(v[i]);
     }
-    no;
+    cout<<sum<<nl;
 }
 int main(){
     FAST;
     int t=1;
-    cin>>t;
+    // cin>>t;
     while(t--){
         solve();
     }
